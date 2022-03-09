@@ -11,6 +11,7 @@ var house ={
     city: 'Hartford',
     state: 'CT',
     zipCode: '06103',
+    country : 'USA',
     }
 }
 console.log(house)
