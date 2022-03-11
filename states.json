@@ -1,0 +1,80 @@
+    [
+    {
+        "Name":"Alaska",
+        "Capital": "Juneau",
+        "Abbrevation":"AK",
+        "Population":{
+            "Proper":32255,
+            "MSA": 32255,
+            "CSA":0
+        },
+        "Area": 2716.7
+    },
+    {
+        "Name":"Texas",
+        "Capital": "Austin",
+        "Abbrevation":"TX",
+        "Population":{
+            "Proper":948000,
+            "MSA": 2283371,
+            "CSA":0
+        },
+        "Area": 234567
+    },
+    {
+        "Name":"Pennsylvania",
+        "Capital": "Harrisburg",
+        "Abbrevation":"PA",
+        "Population":{
+            "Proper":46000,
+            "MSA": 591712,
+            "CSA":1295259
+        },
+        "Area": 145680
+    },
+    {
+        "Name":"Connecticut",
+        "Capital": "Hartford",
+        "Abbrevation":"CT",
+        "Population":{
+            "Proper":116000,
+            "MSA": 1213531,
+            "CSA":1482086
+        },
+        "Area": 345678
+    },
+    {
+        "Name":"California",
+        "Capital": "Sacramento",
+        "Abbrevation":"CA",
+        "Population":{
+            "Proper":516000,
+            "MSA": 2397382,
+            "CSA":0
+        },
+        "Area": 123456
+    },
+    {
+        "Name":"Montana",
+        "Capital": "Helena",
+        "Abbrevation":"MT",
+        "Population":{
+            "Proper":948000,
+            "MSA": 2283371,
+            "CSA":123432
+        },
+        "Area": 345678
+    },
+    {
+        "Name":"Colorado",
+        "Capital": "Denver",
+        "Abbrevation":"CO",
+        "Population":{
+            "Proper":923145,
+            "MSA": 234123,
+            "CSA":123432
+        },
+        "Area": 128900
+    }
+
+]

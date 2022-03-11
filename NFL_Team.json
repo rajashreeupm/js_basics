@@ -1,0 +1,62 @@
+[
+    {
+        "Name":"Tom Brady",
+        "Pass Yds": 5316,
+        "yds": 7.4,
+        "Att": 719,
+        "cmp": 485,
+        "20+": 75,
+        "40+":10,
+        "lng":62
+    },
+    {
+        "Name":"Justin Herbert",
+        "Pass Yds": 5014,
+        "yds": 7.5,
+        "Att": 672,
+        "cmp": 443,
+        "20+": 53,
+        "40+":15,
+        "lng":72
+    },
+    {
+        "Name":"Mathew Stafford",
+        "Pass Yds": 4886,
+        "yds": 8.1,
+        "Att": 719,
+        "cmp": 485,
+        "20+": 75,
+        "40+":18,
+        "lng":79
+    },
+    {
+        "Name":"Patrick Mahomes",
+        "Pass Yds": 4839,
+        "yds": 7.7,
+        "Att": 779,
+        "cmp": 485,
+        "20+": 75,
+        "40+":10,
+        "lng":75
+    },
+    {
+        "Name":"Patrick Mahomes",
+        "Pass Yds": 4563,
+        "yds": 7.7,
+        "Att": 719,
+        "cmp": 485,
+        "20+": 75,
+        "40+":15,
+        "lng":61
+    },
+    {
+        "Name":"Patrick Mahomes",
+        "Pass Yds": 4563,
+        "yds": 6.7,
+        "Att": 689,
+        "cmp": 434,
+        "20+": 34,
+        "40+":45,
+        "lng":78
+    }
+]
