@@ -4,7 +4,8 @@ function countChar(str)
     var count = str.length;
      return count;
 }
-
+module.exports ={countChar}
+//export default{countChar}
 var str1 = "Count me please!";
 console.log(countChar(str1)); 
 // Output: 16
